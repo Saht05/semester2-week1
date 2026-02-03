@@ -7,5 +7,4 @@
 -- Instructions for students:
 -- 1. Open SQLite in terminal: sqlite3 countries.db
 -- 2. Load this script: .read example.sql
--- 3. Exit SQLite: .exit
-
+-- 3. Exit SQLite: .ex

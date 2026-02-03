@@ -12,4 +12,5 @@
 
 -- write your sql code here
 
+
 SELECT * from countries;
